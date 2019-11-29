@@ -1,0 +1,27 @@
+{
+    "cars": [
+        {
+            "brand": "ford",
+            "model": "focus",
+            "fuel": "diesel",
+            "doors": 5,
+            "colour": "blue"
+        },
+        {
+            "brand": "peugeot",
+            "model": "207",
+            "fuel": "petrol",
+            "doors": 3,
+            "colour": "blue"
+        },
+        {
+            "brand": "honda",
+            "model": "civic",
+            "fuel": "diesel",
+            "doors": 5,
+            "colour": "blue"
+        },
+        {
+        }
+    ]
+}
